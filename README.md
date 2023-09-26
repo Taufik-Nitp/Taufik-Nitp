@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer || MERN stack || Java || Data structure & Algorithm
 ----------------------------------------------------------
-
+d
 * 🌍  I'm based in Patna
 * ✉️  You can contact me at [taufikali999@gmail.com](mailto:taufikali999@gmail.com)
 * 🤝  I'm open to collaborating on open source projects
